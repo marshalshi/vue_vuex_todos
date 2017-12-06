@@ -1,0 +1,6 @@
+Simple `Vue` + `Vuex` Todos sample.   
+
+```
+npm install
+npm run dev
+```
